@@ -23,3 +23,13 @@ li {
         flex-direction: colunm;
     }
 }
+
+#body {
+    background-color: #eee;
+    font-family: "lato" sans-serif;
+}
+
+#nav-bar {
+    font-weigth: 400;
+    width: 60vw;
+}
